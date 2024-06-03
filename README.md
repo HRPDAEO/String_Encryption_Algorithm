@@ -8,7 +8,7 @@ String加密算法是一种简易的、便捷的加密算法。String加密算�
 ##  从源代码构建
 
  1. 下载`String[版本号].py`
- 2. 打开Visual Studio Code，点击“终端”在，输入`cd "[您所存储源代码的文件夹的路径]"`。
+ 2. 打开Visual Studio Code，点击“终端”，输入`cd "[您所存储源代码的文件夹的路径]"`。
  3. 输入`pip install pyinstaller`
  4. 输入`pyinstaller --onefile --noconsole String[版本号].py`
  5. 找到“dist”文件夹，里面的.exe文件就是构建好的可执行文件。
