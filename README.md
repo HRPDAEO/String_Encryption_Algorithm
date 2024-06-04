@@ -15,6 +15,5 @@ String加密算法是一种简易的、便捷的加密算法。String加密算�
 #  注意事项
 - 所有“[]”里的内容必须替换。
 - 我们不建议将此加密算法用于任何有加密需求的任何项目，如出现任何问题，我们概不负责。
-- 本仓库处于保密状态，请不要将任何内容以任何方式、形式发送、传递给任何人（即使对方已获得授权）。
 #  许可证
 基于 [Apache License 2.0](https://github.com/HRPDAEO/String_Encryption_Algorithm/blob/main/LICENSE)。请在获取源代码后遵循此许可证
